@@ -1,6 +1,7 @@
 # Hi, I'm Viktor 👋
 
 ### Junior Java Backend Developer
+**Fachinformatiker für Anwendungsentwicklung (IHK)**
 
 I am a Junior Java Backend Developer focused on building backend applications with Java and the Spring ecosystem.
 
